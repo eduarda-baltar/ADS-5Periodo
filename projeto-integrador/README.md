@@ -15,8 +15,7 @@ os links para seus repositórios técnicos.
 
 ## Visão geral
 
-Descreva o problema abordado, os objetivos, o público-alvo
-e as funcionalidades efetivamente desenvolvidas.
+A StartIn é uma plataforma digital que busca conectar startups a oportunidades de mercado, empresas parceiras e potenciais investidores, facilitando o acesso a informações e conexões estratégicas. Seu objetivo é apoiar o crescimento das startups por meio da organização de dados, da descoberta de oportunidades e do uso de inteligência artificial para aprimorar o processo de matching. O projeto contempla o desenvolvimento de interfaces, uma estrutura de frontend e backend e recursos de IA, incluindo experimentos com chatbot e mecanismos de busca e compatibilidade. A solução é direcionada a startups, empreendedores, investidores e empresas interessadas em inovação e parcerias estratégicas.
 
 
 # Relação com as Unidades Curriculares
